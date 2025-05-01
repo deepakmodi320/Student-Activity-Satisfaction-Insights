@@ -11,7 +11,6 @@ This project analyzes student activity and feedback data from an online learning
 - 🌟 **Course Ratings**: No course is rated above **3.5**. **PY202** scores highest (3.25), **WD404** scores lowest (2.75).
 - 💬 **Feedback Themes**: Many students find the courses **too fast-paced** or **lacking in depth**, though some praise exists.
 
----
 
 ## ✅ Recommendations
 
